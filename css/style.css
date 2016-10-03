@@ -1,0 +1,9 @@
+body {
+  padding-top: 50px;
+}
+
+.table-header {
+  display: block;
+  float: left;
+  width: 250px;
+}
